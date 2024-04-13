@@ -1,0 +1,19 @@
+.head1{
+    font-size: 30px;
+    width: 100%;
+    margin: 0;
+    font-family: "Jersey 15", sans-serif;;
+}
+.note{
+    font-size: 25px;
+    color: aqua;
+    font-weight: 200;
+    white-space: pre;
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+canvas{
+    border:groove 5px yellow;
+}
